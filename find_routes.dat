@@ -1,0 +1,14 @@
+#Find Routes
+#Find all possible routes for the the travels mentioned below
+From ------ To
+PCH  ------ SRI
+KOC  ------ LUC
+JAI  ------ KOC
+TRV  ------ KOL
+HYD  ------ DEL
+PUN  ------ SUR
+AHM  ------ GOA
+MYS  ------ TIR
+LUC  ------ GOA
+MUM  ------ GUR
+BLR  ------ MUN
